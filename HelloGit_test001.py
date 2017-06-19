@@ -1,1 +1,1 @@
-print 'Hello,GitHub!!£¬this is second version'
+print 'Hello,GitHub!!  This is second version'
